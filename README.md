@@ -4,7 +4,7 @@ PrepBuddy is a comprehensive AI-powered platform designed to help students excel
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://sweet-croissant-ce409e.netlify.app](https://prepbuddybymaniyourplacemetcompanion.netlify.app/)
+Visit the live application: [https://prepbuddybymani-yourplacemetcompanion.netlify.app](https://prepbuddybymani-yourplacemetcompanion.netlify.app)
 
 ## ✨ Features
 
@@ -117,7 +117,7 @@ supabase/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/prepbuddy.git
+   git clone https://github.com/mraddekarimani/PrepBuddybyMani-YourPlacemetCompanion.git
    cd prepbuddy
    ```
 
