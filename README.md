@@ -258,17 +258,6 @@ If you have any questions or need help:
 3. Contact the author directly via email
 4. Join our community discussions
 
-## 🔮 Roadmap
-
-- [ ] Mobile app development (React Native)
-- [ ] Advanced AI tutoring features
-- [ ] Company-specific preparation modules
-- [ ] Peer-to-peer study groups
-- [ ] Integration with more coding platforms
-- [ ] Advanced analytics and insights
-- [ ] Offline mode support
-- [ ] Multi-language support
-
 ---
 
 **Made with ❤️ by Manikanta for all placement aspirants**
